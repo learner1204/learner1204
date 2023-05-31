@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @learner1204
-- 👀 I’m interested in machine langauges
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m Roshan R
+- 👀 I’m interested in Web Development
 - 📫 How to reach me instagram.com/r_o_s_h_a_n_.r._ 
 - Also im lookng for placement so that i can gain exprience....
 
