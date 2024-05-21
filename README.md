@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Roshan R
 - 👀 I’m interested in Web Development
+- Skills : HTML, CSS, Overview Of JavaScript.
+- Working on Frameworks like ReactJs And Angular
 - 📫 How to reach me rroshanuik@gmail.com
 - Currently Pursuing Master’s degree in computer application. Seeking an entry level opportunity with an esteemed organization where I can utilize my skill and enhance learning in the field of work.
 
